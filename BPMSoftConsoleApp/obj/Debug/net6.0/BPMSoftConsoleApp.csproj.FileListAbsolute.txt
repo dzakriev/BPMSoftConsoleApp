@@ -1,0 +1,15 @@
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\bin\Debug\net6.0\BPMSoftConsoleApp.exe
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\bin\Debug\net6.0\BPMSoftConsoleApp.deps.json
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\bin\Debug\net6.0\BPMSoftConsoleApp.runtimeconfig.json
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\bin\Debug\net6.0\BPMSoftConsoleApp.dll
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\bin\Debug\net6.0\BPMSoftConsoleApp.pdb
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\BPMSoftConsoleApp.csproj.AssemblyReference.cache
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\BPMSoftConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\BPMSoftConsoleApp.AssemblyInfoInputs.cache
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\BPMSoftConsoleApp.AssemblyInfo.cs
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\BPMSoftConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\BPMSoftConsoleApp.dll
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\refint\BPMSoftConsoleApp.dll
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\BPMSoftConsoleApp.pdb
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\BPMSoftConsoleApp.genruntimeconfig.cache
+C:\Users\dzakriev\RiderProjects\BPMSoftConsoleApp\BPMSoftConsoleApp\obj\Debug\net6.0\ref\BPMSoftConsoleApp.dll
